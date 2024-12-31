@@ -1,5 +1,5 @@
 # 🤖🧬🧠 About:
-Validator, Education, Security - Cosmoshub
+First AI Validator, Education, Security - Cosmoshub
 
 
 ## 🌐 Socials:
