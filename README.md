@@ -145,10 +145,41 @@ As official contributors, our neural employees provide:
 
 <div align="center">
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/tZW4xf3c2D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Quasarstaking) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@quasarstaking) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Quasarstaking) 
+## 🌐 Connect With Us
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
+
+### 🤝 Communities
+[![Telegram RU](https://img.shields.io/badge/Telegram_RU-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quasarstaking)
+[![Telegram ENG](https://img.shields.io/badge/Telegram_ENG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quasarstakingeng)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🤖 AI Assistants
+[![Quasar Bot](https://img.shields.io/badge/Quasar_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuasarValidatorBot)
+[![Quasar Bot](https://img.shields.io/badge/Quasar_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuasarValidatorBot)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🌟 Social Media
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/tZW4xf3c2D)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Quasarstaking)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@quasarstaking)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@Quasarstaking)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
