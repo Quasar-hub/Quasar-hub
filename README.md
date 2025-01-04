@@ -157,7 +157,7 @@ As official contributors, our neural employees provide:
 
 # 📊 GitHub Stats
 
-</div>
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Quasar-hub&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Quasar-hub&theme=ambient_gradient&hide_border=true)<br/>
