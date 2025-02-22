@@ -217,7 +217,7 @@ Our AI-powered assistants redefine blockchain support across multiple platforms:
 
 <div align="center">
 
-## 💎 Why QuasarAI-hub?  
+## 💎 Why Quasar 🤖🧬🧠?  
 No one fuses AI, voice, and validator-grade tools like we do. Others dream it. We build it. AI-driven support, validator firepower, education, and security—QuasarAI-hub hands you the keys to crypto success today.  
 
 </div>
