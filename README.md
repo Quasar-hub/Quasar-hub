@@ -22,7 +22,7 @@ Lost in scams, drowned in complexity, or just wasting time on crypto grunt work?
 
 <div align="center">
   
-### 🤖 What We Do  
+## 🤖 What We Do  
 
 </div>
 
