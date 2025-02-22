@@ -5,7 +5,12 @@
 
 </div>
 
+<div align="center">
+
 ## 🧠 About Us  
+
+</div>
+
 Lost in scams, drowned in complexity, or just wasting time on crypto grunt work? QuasarAI-hub is your way out. Born in Cosmos, we’re rewriting the rules of blockchain interaction—scaling to Ethereum, Solana, and beyond. Powered by insights from Informal Systems and Cosmos Hub, we don’t just promise. We deliver:  
 - **17,000+ messages processed monthly**—relentless support at scale.  
 - **99.9% scam protection**, crushing 4,000+ threats.  
@@ -15,7 +20,12 @@ Lost in scams, drowned in complexity, or just wasting time on crypto grunt work?
 - **Security Guide**: Unbreakable protection at [security](https://github.com/QuasarAI-hub/security).  
 - **Education Hub**: Your Cosmos mastery starts at [education](https://github.com/QuasarAI-hub/education).  
 
+<div align="center">
+  
 ### 🤖 What We Do  
+
+</div>
+
 We’re your unfair advantage: automating the grind, shielding your assets, teaching you the ropes, and keeping validators humming.  
 
 <div align="center">
