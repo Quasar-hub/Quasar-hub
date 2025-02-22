@@ -10,8 +10,8 @@ Lost in scams, drowned in complexity, or just wasting time on crypto grunt work?
 - **17,000+ messages processed monthly**—relentless support at scale.  
 - **99.9% scam protection**, crushing 4,000+ threats.  
 - **90% of queries solved autonomously**, slashing ~360 hours/month for teams.  
-- **Community Trust**: 12 stars on [quasar-server-sentinel](https://github.com/QuasarAI-hub/quasar-server-sentinel) prove validators love us (Feb 2025).  
-- **Validator Tools**: Lightweight scripts in [quasar-server-sentinel](https://github.com/QuasarAI-hub/quasar-server-sentinel).  
+- **Community Trust**: 12 stars on [quasar-server-sentinel](https://github.com/Quasar-hub/quasar-server-sentinel) prove validators love us (Feb 2025).  
+- **Validator Tools**: Lightweight scripts in [quasar-server-sentinel](https://github.com/Quasar-hub/quasar-server-sentinel).  
 - **Security Guide**: Unbreakable protection at [security](https://github.com/QuasarAI-hub/security).  
 - **Education Hub**: Your Cosmos mastery starts at [education](https://github.com/QuasarAI-hub/education).  
 
@@ -76,7 +76,7 @@ Our AI-powered assistants redefine blockchain support across multiple platforms:
 
 ### 🛡️ Security Solutions  
 - **Security Fortress**: Scam Fighter + `/tx_h`, `/tx` checks at [security](https://github.com/QuasarAI-hub/security)  
-- **Validator Edge**: RAM, SSD, block monitoring with [quasar-server-sentinel](https://github.com/QuasarAI-hub/quasar-server-sentinel)  
+- **Validator Edge**: RAM, SSD, block monitoring with [quasar-server-sentinel](https://github.com/Quasar-hub/quasar-server-sentinel)  
 
 ### 🎓 Education Boost  
 - Cosmos, DeFi, NFT, airdrops at [education](https://github.com/QuasarAI-hub/education)  
@@ -100,7 +100,7 @@ Our AI-powered assistants redefine blockchain support across multiple platforms:
   - *“‘Airdrop tips?’ Bot: Hit cosmosairdrops.io, watch for phishing in governance votes.’"*  
 
 - **Node Health**:  
-  - *“Validator misses 10+ blocks on cosmoshub-4—[quasar-server-sentinel](https://github.com/QuasarAI-hub/quasar-server-sentinel) catches RAM spike, restarts node, dodges slashing.’"*  
+  - *“Validator misses 10+ blocks on cosmoshub-4—[quasar-server-sentinel](https://github.com/Quasar-hub/quasar-server-sentinel) catches RAM spike, restarts node, dodges slashing.’"*  
 
 - **Cosmos Learning**:  
   - *“User dives into [education](https://github.com/QuasarAI-hub/education): ‘Staking and IBC clicked in a day—crystal-clear guides!’’"*  
@@ -163,7 +163,7 @@ Our AI-powered assistants redefine blockchain support across multiple platforms:
 - **Connect Now**: Hit us up on Telegram [@quasarstakingeng](https://t.me/quasarstakingeng)—secure your edge today!  
 - **Docs**: Coming soon at [docs.quasar-hub.io](https://docs.quasar-hub.io)  
 - **Explore More**:  
-  - Validator tools: [quasar-server-sentinel](https://github.com/QuasarAI-hub/quasar-server-sentinel)  
+  - Validator tools: [quasar-server-sentinel](https://github.com/Quasar-hub/quasar-server-sentinel)  
   - Learn Cosmos: [education](https://github.com/QuasarAI-hub/education)  
   - Secure your assets: [security](https://github.com/QuasarAI-hub/security)  
 
