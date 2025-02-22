@@ -195,9 +195,9 @@ Our AI-powered assistants redefine blockchain support across multiple platforms:
 <tr>
 <td align="center">
 
-### 🤖 AI Assistants  
-[![Quasar ru](https://img.shields.io/badge/Quasar_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuasarValidatorBot)
-[![Quasar eng](https://img.shields.io/badge/Quasar_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuasarValidatorEngBot)
+### 🤖 AI Assistants
+[![Quasar ENG](https://img.shields.io/badge/Quasar_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuasarValidatorEngBot)
+[![Quasar RU](https://img.shields.io/badge/Quasar_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuasarValidatorBot)
 
 </td>
 </tr>
