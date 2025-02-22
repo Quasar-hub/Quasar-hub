@@ -30,7 +30,7 @@ We’re your unfair advantage: automating the grind, shielding your assets, teac
 
 <div align="center">
   
-#### 🎯 Our Mission  
+## 🎯 Our Mission  
 
 </div>
 - **Stakers**: Real-time insights and voice-driven staking—your profits, your control.  
@@ -40,7 +40,7 @@ We’re your unfair advantage: automating the grind, shielding your assets, teac
 
 <div align="center">
 
-### 📊 Proven Performance  
+## 📊 Proven Performance  
 
 </div>
 
