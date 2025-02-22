@@ -18,7 +18,11 @@ Lost in scams, drowned in complexity, or just wasting time on crypto grunt work?
 ### 🤖 What We Do  
 We’re your unfair advantage: automating the grind, shielding your assets, teaching you the ropes, and keeping validators humming.  
 
+<div align="center">
+  
 #### 🎯 Our Mission  
+
+</div>
 - **Stakers**: Real-time insights and voice-driven staking—your profits, your control.  
 - **Projects**: Scale to thousands without breaking a sweat.  
 - **Validators**: Automate, secure, and thrive with battle-tested tools.  
